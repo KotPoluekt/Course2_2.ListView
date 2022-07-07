@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Course2_2ListView">
         <activity
+            android:name=".baseadapter.BaseAdapterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ArrayAdapterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SimpleAdapterActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

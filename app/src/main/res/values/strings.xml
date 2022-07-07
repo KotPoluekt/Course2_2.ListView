@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Course2_2.ListView</string>
+    <string name="character_name">Имя персонажа</string>
+    <string name="item_text">ITEM TEXT</string>
 </resources>
